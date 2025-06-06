@@ -1,9 +1,9 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken":8140096725:AAFOfnxPtjVhP4dOe2w2VYNEiUw3gToDbp4,
+  "chatId":8140096725,
   "projects": [
     {
-      "topic": "",
+      "topic": "rentals",
       "url": ""
     }
   ]
